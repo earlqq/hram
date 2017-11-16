@@ -5,36 +5,71 @@ $APPLICATION->SetTitle("Главная");
 <div class="container">
 	<div class="row">
 		<div class="col-12">
-			<div class="connected-carousels">
-				<div class="stage">
-					<div class="carousel carousel-stage">
-						<ul>
-							<li><img width="461" src="/bitrix/templates/empty/images/slider-01.jpg" height="447" alt=""></li>
-							<li><img width="461" src="/bitrix/templates/empty/images/slider-01.jpg" height="447" alt=""></li>
-							<li><img width="461" src="/bitrix/templates/empty/images/slider-01.jpg" height="447" alt=""></li>
-							<li><img width="461" src="/bitrix/templates/empty/images/slider-01.jpg" height="447" alt=""></li>
-						</ul>
-					</div>
-					<div class="navigation">
-						<h2>Новости</h2>
-						<div class="carousel carousel-navigation">
-							<ul>
-								<li> <a href="#"> <em class="date">24 марта 2014г.</em>
-								Проповедь иеромонаха Иова в субботу первой седмици Великого </a> </li>
-								<li> <a href="#"><em class="date">24 марта 2014г.</em>
-								Проповедь иеромонаха Иова в субботу первой седмици Великого поста Проповедь иеромонаха. Иова </a> </li>
-								<li> <a href="#"> <em class="date">24 марта 2014г.</em>
-								Проповедь иеромонаха Иова в субботу первой седмици Великого </a> </li>
-								<li> <a href="#"> <em class="date">24 марта 2014г.</em>
-								Проповедь иеромонаха Иова в субботу первой седмици Великого поста Проповедь иеромонаха Иова в субботу первой седмици Великого </a> </li>
-							</ul>
-							<div class="jcarousel-pagination">
-							</div>
- <a class="more" href="#">Все новости</a>
-						</div>
-					</div>
-				</div>
-			</div>
+            <?$APPLICATION->IncludeComponent(
+	"bitrix:news.list", 
+	"slider", 
+	array(
+		"ACTIVE_DATE_FORMAT" => "d.m.Y",
+		"ADD_SECTIONS_CHAIN" => "Y",
+		"AJAX_MODE" => "N",
+		"AJAX_OPTION_ADDITIONAL" => "",
+		"AJAX_OPTION_HISTORY" => "N",
+		"AJAX_OPTION_JUMP" => "N",
+		"AJAX_OPTION_STYLE" => "Y",
+		"CACHE_FILTER" => "N",
+		"CACHE_GROUPS" => "Y",
+		"CACHE_TIME" => "36000000",
+		"CACHE_TYPE" => "A",
+		"CHECK_DATES" => "Y",
+		"DETAIL_URL" => "",
+		"DISPLAY_BOTTOM_PAGER" => "Y",
+		"DISPLAY_DATE" => "Y",
+		"DISPLAY_NAME" => "Y",
+		"DISPLAY_PICTURE" => "Y",
+		"DISPLAY_PREVIEW_TEXT" => "Y",
+		"DISPLAY_TOP_PAGER" => "N",
+		"FIELD_CODE" => array(
+			0 => "",
+			1 => "",
+		),
+		"FILTER_NAME" => "",
+		"HIDE_LINK_WHEN_NO_DETAIL" => "N",
+		"IBLOCK_ID" => "2",
+		"IBLOCK_TYPE" => "simpleBlocks",
+		"INCLUDE_IBLOCK_INTO_CHAIN" => "Y",
+		"INCLUDE_SUBSECTIONS" => "Y",
+		"MESSAGE_404" => "",
+		"NEWS_COUNT" => "20",
+		"PAGER_BASE_LINK_ENABLE" => "N",
+		"PAGER_DESC_NUMBERING" => "N",
+		"PAGER_DESC_NUMBERING_CACHE_TIME" => "36000",
+		"PAGER_SHOW_ALL" => "N",
+		"PAGER_SHOW_ALWAYS" => "N",
+		"PAGER_TEMPLATE" => ".default",
+		"PAGER_TITLE" => "Новости",
+		"PARENT_SECTION" => "",
+		"PARENT_SECTION_CODE" => "",
+		"PREVIEW_TRUNCATE_LEN" => "",
+		"PROPERTY_CODE" => array(
+			0 => "",
+			1 => "",
+		),
+		"SET_BROWSER_TITLE" => "Y",
+		"SET_LAST_MODIFIED" => "N",
+		"SET_META_DESCRIPTION" => "Y",
+		"SET_META_KEYWORDS" => "Y",
+		"SET_STATUS_404" => "N",
+		"SET_TITLE" => "Y",
+		"SHOW_404" => "N",
+		"SORT_BY1" => "ACTIVE_FROM",
+		"SORT_BY2" => "SORT",
+		"SORT_ORDER1" => "DESC",
+		"SORT_ORDER2" => "ASC",
+		"STRICT_SECTION_CHECK" => "N",
+		"COMPONENT_TEMPLATE" => "slider"
+	),
+	false
+);?>
 			<div class="schedule-holder">
 				<div class="title">
  <span class="wrap">Расписание богослужений</span>
@@ -53,104 +88,104 @@ $APPLICATION->SetTitle("Главная");
 					<tr class="active">
 						<td rowspan="2">
 							<p>
-								3 марта
+								 3 марта
 							</p>
 							<p>
-								Понедельник
+								 Понедельник
 							</p>
 						</td>
 						<td rowspan="2">
 							<p>
-								Свт. Льва, папы Римского.
+								 Свт. Льва, папы Римского.
 							</p>
 							<p class="uppercase">
-								НАЧАЛО ВЕЛИКОГО ПОСТА
+								 НАЧАЛО ВЕЛИКОГО ПОСТА
 							</p>
 						</td>
 						<td>
 							<p>
-								Полуношница. Утреня.
+								 Полуношница. Утреня.
 							</p>
 							<p>
-								Часы. Вечерня
+								 Часы. Вечерня
 							</p>
 						</td>
 						<td>
 							<p>
-								06:00
+								 06:00
 							</p>
 						</td>
 					</tr>
 					<tr class="active">
 						<td>
 							<p>
-								Великое повечерие.
+								 Великое повечерие.
 							</p>
 							<p>
-								КАНОН ПРП. АНДРЕЯ КРИТСКОГО
+								 КАНОН ПРП. АНДРЕЯ КРИТСКОГО
 							</p>
 						</td>
 						<td>
 							<p>
-								17:00
+								 17:00
 							</p>
 						</td>
 					</tr>
 					<tr class="active">
 						<td rowspan="2">
 							<p>
-								4 марта
+								 4 марта
 							</p>
 							<p>
-								Вторник
+								 Вторник
 							</p>
 						</td>
 						<td rowspan="2">
 							<p>
-								Ап. от 70-ти Архиппа
+								 Ап. от 70-ти Архиппа
 							</p>
 						</td>
 						<td>
 							<p>
-								Полуношница. Утреня.
+								 Полуношница. Утреня.
 							</p>
 							<p>
-								Часы. Вечерня
+								 Часы. Вечерня
 							</p>
 						</td>
 						<td>
 							<p>
-								06:00
+								 06:00
 							</p>
 						</td>
 					</tr>
 					<tr class="active">
 						<td>
 							<p>
-								Великое повечерие.
+								 Великое повечерие.
 							</p>
 							<p>
-								КАНОН ПРП. АНДРЕЯ КРИТСКОГО
+								 КАНОН ПРП. АНДРЕЯ КРИТСКОГО
 							</p>
 						</td>
 						<td>
 							<p>
-								17:00
+								 17:00
 							</p>
 						</td>
 					</tr>
 					<tr>
 						<td>
-							1
+							 1
 						</td>
 						<td>
-							2
+							 2
 						</td>
 						<td>
-							3
+							 3
 						</td>
 						<td>
-							4
+							 4
 						</td>
 					</tr>
 					</tbody>
@@ -203,7 +238,7 @@ $APPLICATION->SetTitle("Главная");
 					</ul>
 				</div>
 				<div class="tab" id="tab-02">
-					text
+					 text
 				</div>
 			</div>
 			<div class="school-box">
@@ -215,7 +250,7 @@ $APPLICATION->SetTitle("Главная");
 					</div>
 					<div class="wrap">
 						<p>
-							Проповедь иеромонаха Иова в субботу первой седмици Великого поста Проповедь иеромонаха Иова в субботу первой седмици Великого Проповедь иеромонаха Иова
+							 Проповедь иеромонаха Иова в субботу первой седмици Великого поста Проповедь иеромонаха Иова в субботу первой седмици Великого Проповедь иеромонаха Иова
 						</p>
  <em class="date">24 марта 2014г</em>
 					</div>
@@ -226,7 +261,7 @@ $APPLICATION->SetTitle("Главная");
 					</div>
 					<div class="wrap">
 						<p>
-							Проповедь иеромонаха Иова в субботу первой седмици Великого поста Проповедь иеромонаха Иова в субботу первой седмици Великого Проповедь иеромонаха Иова
+							 Проповедь иеромонаха Иова в субботу первой седмици Великого поста Проповедь иеромонаха Иова в субботу первой седмици Великого Проповедь иеромонаха Иова
 						</p>
  <em class="date">24 марта 2014г</em>
 					</div>
@@ -249,19 +284,19 @@ $APPLICATION->SetTitle("Главная");
 				<h3>Православный календарь</h3>
  <img width="95" src="/bitrix/templates/empty/images/calendar-01.jpg" height="118" alt=""> <em class="date">3 апреля 2014г.<span class="wrap">(21 марта ст. ст.)</span></em>
 				<p class="uppercase">
-					СЕДМИЦА 5-Я ВЕЛИКОГО ПОСТА. ВЕЛИКИЙ ПОСТ.
+					 СЕДМИЦА 5-Я ВЕЛИКОГО ПОСТА. ВЕЛИКИЙ ПОСТ.
 				</p>
 				<p class="uppercase blue">
-					ПИЩА С РАСТИТЕЛЬНЫМ МАСЛОМ.
+					 ПИЩА С РАСТИТЕЛЬНЫМ МАСЛОМ.
 				</p>
 				<p>
-					Прп. Иакова сп., исп. Прп. Серафима Вырицкого.
+					 Прп. Иакова сп., исп. Прп. Серафима Вырицкого.
 				</p>
 				<p>
-					Свт. Кирилла, еп Катанского Свт. Фомы, патриарха Константинопольского.
+					 Свт. Кирилла, еп Катанского Свт. Фомы, патриарха Константинопольского.
 				</p>
 				<p>
-					Сщмч. Владимира пресвитера. <span class="blue">На 6-м часе:</span> Ис. XLII, 5-16. <span class="blue">На веч.</span>: Быт. XVIII, 20-33, Притч. XVI. 17 - XVII, 17.
+					 Сщмч. Владимира пресвитера. <span class="blue">На 6-м часе:</span> Ис. XLII, 5-16. <span class="blue">На веч.</span>: Быт. XVIII, 20-33, Притч. XVI. 17 - XVII, 17.
 				</p>
 			</div>
 			<div class="box video">
@@ -296,6 +331,6 @@ $APPLICATION->SetTitle("Главная");
 		</div>
 	</div>
 </div>
-</section><?
+ </section><?
 	require($_SERVER['DOCUMENT_ROOT'].'/bitrix/footer.php');
 	?>

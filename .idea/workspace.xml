@@ -1,7 +1,123 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="712440f3-f42c-4612-864a-208133528a56" name="Default" comment="" />
+    <list default="true" id="712440f3-f42c-4612-864a-208133528a56" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/backup/20171116_134814_full_ce57510b.tar.gz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/backup/20171116_134814_full_ce57510b.tar.gz.1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/backup/20171116_134814_full_ce57510b.tar.gz.2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/cache/s1/bitrix/news.list/e25/79/794c2fe624e6d5f7de6064f517e23d84.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/agents/76/76ee4ad3b12ba3471b5273d26f48b51b.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/02/0266e33d3f546cb5436a10798e657d97.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/03/03c6b06952c750899bb03d998e631860.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/04/0408ab450f04ecd3325af5e38053f810.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/1a/1a52d0abee91ac5be8bb82d996cc7bda.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/33/335f5352088d7d9bf74191e006d8e24c.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/45/454d11d6cde68dc3f7ee3f57bac73e50.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/57/577ef1154f3240ad5b9b413aa7346a1e.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/68/6883966fd8f918a4aa29be29d2c386fb.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/84/84cc5abbf6043bafeab801b89fb72510.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/9b/9bc5bea75eefb22a7c2746b1bc0864d9.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_undo/c5/c52f1bd66cc19d05628bd8bf27af3ad6.php" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-arrow.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-body.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-carousel-item-active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-carousel-item.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-comment-list.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-corner-lb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-corner-lt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-corner-rb.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-corner-rt.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-footer-after-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-footer-after.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-footer-before-top.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-footer-before.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-monastur.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-news-box.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-section-link-active.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bg-section-link.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/btn-next.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/btn-prev.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/btn-search.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/bullet.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/buttons.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/fancybox/blank.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/fancybox/fancybox_loading.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/fancybox/fancybox_loading@2x.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/fancybox/fancybox_overlay.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/fancybox/fancybox_sprite.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/fancybox/fancybox_sprite@2x.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/ico-close.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/ico-comment.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/ico-map.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/ico-vk.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/ico-youtube.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bitrix/templates/empty/css/img/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/upload/iblock/013/013f00bc931c2112fa25e6552172a15a.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/upload/iblock/ace/aceaad425e97cc89a73b2fd3c2edc458.png" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.topmenu.menu.php" afterPath="$PROJECT_DIR$/.topmenu.menu.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/16/16908b0605f2645dfcb4c3a8d248cef3.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/27/27850a3654870e28053dd5b6d2051c3e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/28/28976769ed03dceeac01ae0d1c0e331d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/41/416acb540279140f55ddb5b83b7646b7.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/41/416acb540279140f55ddb5b83b7646b7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/65/65b7157158e194d714f3a0c683f9afce.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/65/65b7157158e194d714f3a0c683f9afce.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9a/9af5a4c25331d8bd4c5d68555ab1f760.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/9a/9af5a4c25331d8bd4c5d68555ab1f760.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/68/68878f8d908da869005ed3b1bbb77198.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/68/68878f8d908da869005ed3b1bbb77198.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/ec/eca380947aa83b89ebfde8658c6bb7b6.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/access_check/ec/eca380947aa83b89ebfde8658c6bb7b6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/aa/aaf690b3a09e9d3a00ca3c89ec9b8b24.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_file/aa/aaf690b3a09e9d3a00ca3c89ec9b8b24.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock/12/12fe59ed4fd47eb7f7e38cdc8ffb4896.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock/12/12fe59ed4fd47eb7f7e38cdc8ffb4896.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/4a/4a6d950e7b4790479f950d2a5921c62d.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/4a/4a6d950e7b4790479f950d2a5921c62d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_iblock_type/d1/d1fcc4d6b01472eb4145c2317c425042.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/20/20f1309544f34d17d602a00bf9dde716.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/20/20f1309544f34d17d602a00bf9dde716.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/4d/4ddd3d008a59ee248a70e8d70e0f258e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/55/5585b8ebad58e8064a1c7284562b5b47.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/55/5585b8ebad58e8064a1c7284562b5b47.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/87/873202c2404c65d99ea73d27b5cfa2d5.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/87/873202c2404c65d99ea73d27b5cfa2d5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/8a/8a6771cf0faa05bbec84465de484e41d.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/b4/b41953f2bfbb14fe6047697d6684ea17.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/b4/b41953f2bfbb14fe6047697d6684ea17.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/c5/c50f038ed6291a78ea68e4a590830017.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/c5/c50f038ed6291a78ea68e4a590830017.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/f8/f8aa25bde9b456c6549a597dc3ee0512.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/f8/f8aa25bde9b456c6549a597dc3ee0512.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/fc/fc70ad1863cba1f1760c13e7b4e20a98.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang/fc/fc70ad1863cba1f1760c13e7b4e20a98.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/b2/b21d3c2ec406ac96b9b443675c383d36.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/b2/b21d3c2ec406ac96b9b443675c383d36.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/c0/c0a6035229545c96522ff35e2b8c37a0.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_lang_domain/c0/c0a6035229545c96522ff35e2b8c37a0.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/14/149676c3683da148057e50e22c6187de.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/14/149676c3683da148057e50e22c6187de.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/45/45d2709d1cf143b83df37e1f6a54bc7c.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/45/45d2709d1cf143b83df37e1f6a54bc7c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/45/45de2c44c106ab11b08ddc54666aa803.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/45/45de2c44c106ab11b08ddc54666aa803.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/9d/9d8c68225868ee036081eef8be4a9b38.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task/9d/9d8c68225868ee036081eef8be4a9b38.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/04/04a58fbc129e55281761b04e356f29c7.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/04/04a58fbc129e55281761b04e356f29c7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/56/562dcc7710a3c198c4c7238c908d0032.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/56/562dcc7710a3c198c4c7238c908d0032.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/5a/5ac34a4d27aca16848347c44b236ebfa.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/5a/5ac34a4d27aca16848347c44b236ebfa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/5f/5fcf5d4913eda654c69ac02b8024e015.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/5f/5fcf5d4913eda654c69ac02b8024e015.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/6d/6d260a0462575266fc54feff44aef554.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/6d/6d260a0462575266fc54feff44aef554.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/8c/8c0dc4f3d5a0f8640c5bff586719dca5.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/8c/8c0dc4f3d5a0f8640c5bff586719dca5.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b0/b0b40b5fdc88dae28f9c095cfb10f3aa.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b0/b0b40b5fdc88dae28f9c095cfb10f3aa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/b3/b3d102e05659b57fe9571855dab3fb50.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/d1/d1488b9513ec7d04c698f45da389882e.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_task_operation/d1/d1488b9513ec7d04c698f45da389882e.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/2f/2f0a715c791f6536876a0da8bd0cae52.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/2f/2f0a715c791f6536876a0da8bd0cae52.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/94/94ce3a26724eea812b5d5794bbbe05c4.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/94/94ce3a26724eea812b5d5794bbbe05c4.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/da/da574eafa0e60e60faaf2a88513bf82a.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/b_user_field/da/da574eafa0e60e60faaf2a88513bf82a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/bd/bd21575483a0787a72df6dead4cb9a56.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/e5/e56397d99b3a76ae3f02219877fed2c7.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/e5/e56397d99b3a76ae3f02219877fed2c7.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fb/fbebca4e0e7b3b5d5031caeb6b93a51f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_component_tree/95/959371d2053449e0bf315c04fd90bf9f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_component_tree/95/959371d2053449e0bf315c04fd90bf9f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/90/9025e60f0933010fc3419e4b9ce2beed.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/fileman_stickers_count/90/9025e60f0933010fc3419e4b9ce2beed.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/01/0188d3b3a37dc7ecc0c406ecb1ddeb6f.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/01/0188d3b3a37dc7ecc0c406ecb1ddeb6f.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/27/27d1e53c214abb6ad3ffa27f9cb319c6.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/27/27d1e53c214abb6ad3ffa27f9cb319c6.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/36/369f2b1f918fb10d6c5bf03eba4ad513.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/36/369f2b1f918fb10d6c5bf03eba4ad513.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/44/4467ff579bb3451b2c2dee0d475b4cf9.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/44/4467ff579bb3451b2c2dee0d475b4cf9.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/67/676186d848f3e2c452a086a860975cfa.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/67/676186d848f3e2c452a086a860975cfa.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/74/74ae411d554f04027801d562a04ad6e2.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/74/74ae411d554f04027801d562a04ad6e2.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/80/80d0df1c506cfa11d255d489ea901529.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/8f/8fe219017d20cdcb03fa4ee11303fc00.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/8f/8fe219017d20cdcb03fa4ee11303fc00.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b2/b2405e0fd2bec8e8480579e5f5fd3162.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b2/b2405e0fd2bec8e8480579e5f5fd3162.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b5/b5fef86cde416d168f79a4d2cbdd0e09.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/b5/b5fef86cde416d168f79a4d2cbdd0e09.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/bd/bda1eed3dc15287945960c947a0cc6bc.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/bd/bda1eed3dc15287945960c947a0cc6bc.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e4/e46a7cd1240e5249e769c3b594014c74.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e6/e6de97c4d404954fc411cff4540da30a.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/e6/e6de97c4d404954fc411cff4540da30a.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/eb/eb3508c4ba55f931e8c612a0cb61f17c.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/eb/eb3508c4ba55f931e8c612a0cb61f17c.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" afterPath="$PROJECT_DIR$/bitrix/managed_cache/MYSQL/user_option/f0/f0fc06318e8ac66f82152783eff5c4d8.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.php" afterPath="$PROJECT_DIR$/index.php" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,31 +133,29 @@
             <state relative-caret-position="15">
               <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
               <folding>
-                <marker date="1510862504648" expanded="true" signature="70:708" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="92:179" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="119:168" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="201:699" ph="..." />
-                <marker date="1510862504648" expanded="false" signature="269:275" ph="©" />
-                <marker date="1510862504648" expanded="true" signature="476:688" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="503:675" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="725:809" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="830:848" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="903:921" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="981:999" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="1057:1075" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="1142:1160" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="1226:1244" ph="..." />
-                <marker date="1510862504648" expanded="true" signature="1292:1310" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="70:708" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="92:179" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="119:168" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="201:699" ph="..." />
+                <marker date="1510864462456" expanded="false" signature="269:275" ph="©" />
+                <marker date="1510864462456" expanded="true" signature="476:688" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="503:675" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="725:809" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="830:848" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="903:921" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="981:999" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="1057:1075" ph="..." />
+                <marker date="1510864462456" expanded="true" signature="1243:1278" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="header.php" pinned="false" current-in-tab="true">
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bitrix/templates/empty/header.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="630">
-              <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+            <state relative-caret-position="375">
+              <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
               <folding />
             </state>
           </provider>
@@ -50,8 +164,30 @@
       <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="682">
-              <caret line="291" column="46" lean-forward="false" selection-start-line="291" selection-start-column="46" selection-end-line="291" selection-end-column="46" />
+            <state relative-caret-position="158">
+              <caret line="71" column="4" lean-forward="false" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/slider/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="503">
+              <caret line="64" column="64" lean-forward="false" selection-start-line="64" selection-start-column="64" selection-end-line="64" selection-end-column="64" />
+              <folding>
+                <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="template.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/news_list/template.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="320">
+              <caret line="53" column="37" lean-forward="false" selection-start-line="53" selection-start-column="37" selection-end-line="55" selection-end-column="46" />
               <folding />
             </state>
           </provider>
@@ -64,13 +200,20 @@
       <find>comment</find>
     </findStrings>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/newslist/template.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/bitrix/templates/empty/footer.php" />
         <option value="$PROJECT_DIR$/bitrix/templates/empty/header.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/news_list/style.css" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/news_list/template.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/slider/style.css" />
+        <option value="$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/slider/template.php" />
       </list>
     </option>
   </component>
@@ -87,6 +230,7 @@
     <option name="width" value="1400" />
     <option name="height" value="790" />
   </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
@@ -109,6 +253,62 @@
             <path>
               <item name="hram" type="b2602c69:ProjectViewProjectNode" />
               <item name="hram" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hram" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hram" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hram" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hram" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hram" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hram" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news.list" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="hram" type="b2602c69:ProjectViewProjectNode" />
+              <item name="hram" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="templates" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name=".default" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="components" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="bitrix" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news.list" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="news_list" type="2a2b976b:PhpTreeStructureProvider$1" />
             </path>
           </expand>
           <select />
@@ -134,6 +334,14 @@
       </list>
     </option>
   </component>
+  <component name="RunManager" selected="JavaScript Debug.header.php">
+    <configuration name="header.php" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/hram/bitrix/templates/empty/header.php" />
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.header.php" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -146,27 +354,27 @@
       <updated>1510844201912</updated>
       <workItem from="1510844203898" duration="1446000" />
       <workItem from="1510846142408" duration="304000" />
-      <workItem from="1510861505901" duration="774000" />
+      <workItem from="1510861505901" duration="4996000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2524000" />
+    <option name="totallyTimeSpent" value="6746000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="20" y="42" width="1400" height="790" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2242857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2242857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.0" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12395543" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -175,6 +383,25 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2242857" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.12395543" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -194,21 +421,19 @@
         <state relative-caret-position="45">
           <caret line="3" column="4" lean-forward="true" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="4" />
           <folding>
-            <marker date="1510862504648" expanded="true" signature="70:708" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="92:179" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="119:168" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="201:699" ph="..." />
-            <marker date="1510862504648" expanded="false" signature="269:275" ph="©" />
-            <marker date="1510862504648" expanded="true" signature="476:688" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="503:675" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="725:809" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="830:848" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="903:921" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="981:999" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="1057:1075" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="1142:1160" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="1226:1244" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="1292:1310" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="70:708" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="92:179" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="119:168" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="201:699" ph="..." />
+            <marker date="1510864462456" expanded="false" signature="269:275" ph="©" />
+            <marker date="1510864462456" expanded="true" signature="476:688" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="503:675" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="725:809" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="830:848" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="903:921" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="981:999" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="1057:1075" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="1243:1278" ph="..." />
           </folding>
         </state>
       </provider>
@@ -233,6 +458,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="6" lean-forward="false" selection-start-line="19" selection-start-column="6" selection-end-line="19" selection-end-column="6" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -243,50 +469,83 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/newslist/template.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="682">
-          <caret line="291" column="46" lean-forward="false" selection-start-line="291" selection-start-column="46" selection-end-line="291" selection-end-column="46" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/bitrix/templates/empty/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
           <folding>
-            <marker date="1510862504648" expanded="true" signature="70:708" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="92:179" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="119:168" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="201:699" ph="..." />
-            <marker date="1510862504648" expanded="false" signature="269:275" ph="©" />
-            <marker date="1510862504648" expanded="true" signature="476:688" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="503:675" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="725:809" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="830:848" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="903:921" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="981:999" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="1057:1075" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="1142:1160" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="1226:1244" ph="..." />
-            <marker date="1510862504648" expanded="true" signature="1292:1310" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="70:708" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="92:179" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="119:168" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="201:699" ph="..." />
+            <marker date="1510864462456" expanded="false" signature="269:275" ph="©" />
+            <marker date="1510864462456" expanded="true" signature="476:688" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="503:675" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="725:809" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="830:848" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="903:921" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="981:999" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="1057:1075" ph="..." />
+            <marker date="1510864462456" expanded="true" signature="1243:1278" ph="..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/newslist/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bitrix/templates/empty/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="63" column="4" lean-forward="false" selection-start-line="63" selection-start-column="4" selection-end-line="63" selection-end-column="4" />
+        <state relative-caret-position="375">
+          <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/news_list/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="158">
+          <caret line="71" column="4" lean-forward="false" selection-start-line="71" selection-start-column="4" selection-end-line="71" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/slider/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/news_list/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="53" column="37" lean-forward="false" selection-start-line="53" selection-start-column="37" selection-end-line="55" selection-end-column="46" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bitrix/templates/.default/components/bitrix/news.list/slider/template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="503">
+          <caret line="64" column="64" lean-forward="false" selection-start-line="64" selection-start-column="64" selection-end-line="64" selection-end-column="64" />
+          <folding>
+            <element signature="n#style#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
