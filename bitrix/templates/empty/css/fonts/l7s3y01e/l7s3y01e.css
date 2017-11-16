@@ -1,0 +1,8 @@
+@font-face {
+    font-family: 'CyrillicOldBold';
+    src: url('l7s3y01e.eot');
+    src: url('l7s3y01e.eot') format('embedded-opentype'),
+         url('l7s3y01e.woff') format('woff'),
+         url('l7s3y01e.ttf') format('truetype'),
+         url('l7s3y01e.svg#CyrillicOldBold') format('svg');
+}

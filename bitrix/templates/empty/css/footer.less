@@ -1,0 +1,43 @@
+.footer{
+  padding-bottom: 70px;
+
+  .copyright{
+    font-size: 12px;
+  }
+  p{
+    margin: 0;
+  }
+  .links{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    .fr;
+    li{
+      float: left;
+      margin-left: 14px;
+      &.map{
+        padding:4px 0 0 21px;
+        background: url(img/ico-map.png) 0 4px no-repeat;
+      }
+      a{
+        display: inline-block;
+        &.youtube{
+          width: 34px;
+          height: 24px;
+          background: url(img/ico-youtube.png) 0 0 no-repeat;
+        }
+        &.vk{
+          width: 24px;
+          height: 24px;
+          background: url(img/ico-vk.png) 0 0 no-repeat;
+        }
+        &:hover{
+          &.vk,
+          &.youtube{
+            opacity: 0.8;
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,123 @@
+
+
+/* Start:/bitrix/templates/.default/components/bitrix/news.list/newslist/style.css?15108348202814*/
+h2 {
+    text-transform: uppercase;
+    font-size: 24px;
+    margin: 0 0 6px;
+    line-height: 24px;
+    font-family: CyrillicOldBold, "Times New Roman", Times, Baskerville, Georgia, serif
+}
+.connected-carousels {
+    margin-bottom: 24px
+}
+.connected-carousels:after {
+    content: '';
+    clear: both;
+    display: table;
+    width: 100%
+}
+.connected-carousels .stage {
+    position: relative;
+    overflow: hidden
+}
+.connected-carousels .stage .jcarousel-pagination {
+    padding: 3px 0 0 4px;
+    float: left
+}
+.connected-carousels .stage .jcarousel-pagination a {
+    float: left;
+    height: 16px;
+    width: 16px;
+    border: 1px solid #bfaa8c;
+    border-radius: 4px;
+    text-indent: -9999px;
+    margin-right: 5px
+}
+.connected-carousels .stage .jcarousel-pagination a.active {
+    background-color: rgba(88, 25, 36, 0.2)
+}
+.connected-carousels .stage ul {
+    list-style: none;
+    margin: 0;
+    padding: 0
+}
+.connected-carousels .stage .carousel-stage.carousel {
+    overflow: hidden;
+    width: 460px;
+    float: left
+}
+.connected-carousels .stage .carousel-stage ul {
+    width: 20000em;
+    position: relative
+}
+.connected-carousels .stage .carousel-stage ul li {
+    float: left
+}
+.connected-carousels .stage .carousel-stage ul li img {
+    border-radius: 8px
+}
+.connected-carousels .stage .navigation {
+    float: right;
+    width: calc(100% - 480px);
+    margin-left: 10px
+}
+@media (max-width: 990px) {
+    .connected-carousels .stage .navigation {
+        width: 230px
+    }
+}
+.connected-carousels .stage .navigation h2 {
+    text-transform: uppercase;
+    font-size: 24px;
+    margin: 0 0 6px;
+    line-height: 24px;
+    font-family: CyrillicOldBold, "Times New Roman", Times, Baskerville, Georgia, serif
+}
+.connected-carousels .stage .navigation a.more {
+    font-size: 17px;
+    font-weight: bold;
+    float: right;
+    font-family: CyrillicOldBold, "Times New Roman", Times, Baskerville, Georgia, serif
+}
+.connected-carousels .stage .navigation ul {
+    margin: 0 0 7px
+}
+.connected-carousels .stage .navigation ul li {
+    line-height: 17px;
+    padding-bottom: 7px;
+    margin-bottom: 4px
+}
+.connected-carousels .stage .navigation ul li.active {
+    background-color: rgba(88, 25, 36, 0.2);
+    border-radius: 5px
+}
+.connected-carousels .stage .navigation ul li.active a {
+    background: url(/bitrix/templates/.default/components/bitrix/news.list/newslist/img/bg-carousel-item-active.png) 50% 100% no-repeat
+}
+.connected-carousels .stage .navigation ul li a {
+    display: block;
+    padding: 6px 9px 18px;
+    text-decoration: none;
+    background: url(/bitrix/templates/.default/components/bitrix/news.list/newslist/img/bg-carousel-item.png) 50% 100% no-repeat
+}
+.connected-carousels .stage .navigation ul li a .date {
+    display: block;
+    font-style: normal
+}
+div.news-list
+{
+	word-wrap: break-word;
+}
+div.news-list img.preview_picture
+{
+	float:left;
+	margin:0 4px 6px 0;
+}
+.news-date-time {
+	color:#486DAA;
+}
+
+
+/* End */
+/* /bitrix/templates/.default/components/bitrix/news.list/newslist/style.css?15108348202814 */
